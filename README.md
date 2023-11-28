@@ -21,9 +21,9 @@ We create a Low-light Color-Monochrome Benchmark (LCM) that contains both synthe
 
 It can be downloaded from：
 
-Link: https://pan.baidu.com/s/1GE_xID7QDDc7Hn1EK4dKzw 
+Link: https://pan.baidu.com/s/1x1ZLA02-m7533hAYJDi4SA 
 
-Extract code: LDRM
+Extract code: LCMB
 
 <img src=".\img\Syn.png" alt="Syn" style="zoom:50%;" />
 
