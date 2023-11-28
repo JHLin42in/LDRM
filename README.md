@@ -13,7 +13,7 @@ You can also refer our works on other low-level vision applications!
 
 <img src=".\img\Method.png" alt="Method" style="zoom:50%;" />
 
-![Network](.\img\Network.png)
+<img src=".\img\Network.png" alt="Network" style="zoom:50%;" />
 
 # LCM Benchmark and Results
 
@@ -25,13 +25,12 @@ Link: https://pan.baidu.com/s/1GE_xID7QDDc7Hn1EK4dKzw
 
 Extract code: LDRM
 
-![Syn](.\img\Syn.png)
+<img src=".\img\Syn.png" alt="Syn" style="zoom:50%;" />
 
 Qualitative results on Synthetic dataset of LCM. Please zoom in for better visual quality.
 
 
-
-![Real](.\img\Real.png)
+<img src=".\img\Real.png" alt="Real" style="zoom:50%;" />
 
 Qualitative results on Real-world dataset of LCM. Please zoom in for better visual quality.
 
